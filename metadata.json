@@ -1,0 +1,5 @@
+{
+  "name": "Heavy Cool Air Solution",
+  "description": "Premium AC Rental & Repair Services in Noida & Ghaziabad. Affordable split and window AC rentals with fast installation.",
+  "requestFramePermissions": ["geolocation"]
+}
